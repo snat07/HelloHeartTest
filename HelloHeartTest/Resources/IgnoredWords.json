@@ -1,0 +1,24 @@
+{
+  "IgnoredWords": [{
+      "ignoredWord": "Total"
+    },
+    {
+      "ignoredWord": "Hemoglobin"
+    },
+    {
+      "ignoredWord": "Blood"
+    },
+    {
+      "ignoredWord": "Sucar"
+    },
+    {
+      "ignoredWord": "on"
+    },
+    {
+      "ignoredWord": "White"
+    },
+    {
+      "ignoredWord": "cells"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "Categories": [{
+      "categoryId": "1",
+      "name": "HDL Cholesterol"
+    },
+    {
+      "categoryId": "2",
+      "name": "A1C"
+    },
+    {
+      "categoryId": "3",
+      "name": "Glucose"
+    },
+    {
+      "categoryId": "4",
+      "name": "Lymphocytes"
+    },
+    {
+      "categoryId": "5",
+      "name": "AA Amino Acids"
+    }
+  ]
+}

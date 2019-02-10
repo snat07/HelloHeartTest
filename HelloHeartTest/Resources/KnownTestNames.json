@@ -1,0 +1,39 @@
+{
+  "KnownTestNames": [{
+      "categoryId": "1",
+      "knownTestName": "Total HDL Cholesterol "
+    },
+    {
+      "categoryId": "1",
+      "knownTestName": "HDL Total"
+    },
+    {
+      "categoryId": "2",
+      "knownTestName": "HM Hemoglobin A1C"
+    },
+    {
+      "categoryId": "2",
+      "knownTestName": "Blood A1C Hemoglobin"
+    },
+    {
+      "categoryId": "3",
+      "knownTestName": "Total Glucose"
+    },
+    {
+      "categoryId": "3",
+      "knownTestName": "Sugar on Blood"
+    },
+    {
+      "categoryId": "4",
+      "knownTestName": "Lymphocytes White Blood cells"
+    },
+    {
+      "categoryId": "5",
+      "knownTestName": "AA Total"
+    },
+    {
+      "categoryId": "5",
+      "knownTestName": "Total Amino Acids"
+    }
+  ]
+}
